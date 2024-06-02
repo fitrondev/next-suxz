@@ -15,7 +15,7 @@ const Header = () => {
           </div>
 
           <div className="hidden lg:block">
-            <NavLinks className="text-gray-700 dark:text-foreground gap-6" />
+            <NavLinks className="gap-6" />
           </div>
         </div>
 
