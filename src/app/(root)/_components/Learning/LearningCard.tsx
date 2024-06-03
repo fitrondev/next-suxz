@@ -1,12 +1,5 @@
 import { Button } from "@/components/ui/button";
-import {
-  Card,
-  CardContent,
-  CardDescription,
-  CardFooter,
-  CardHeader,
-  CardTitle,
-} from "@/components/ui/card";
+import { Card, CardContent } from "@/components/ui/card";
 import { cn } from "@/lib/utils";
 import Image from "next/image";
 import Link from "next/link";
@@ -31,7 +24,7 @@ const LearningCard = ({
       <CardContent className="size-full rounded-lg p-0">
         <div className="w-full h-[180px] bg-gray-200 dark:bg-foreground flex items-center justify-center rounded-t-lg">
           <div className="relative size-40">
-            <Image src={img} alt="" fill className="size-20 object-contain" />
+            <Image src={img} alt="" fill className="size-auto object-contain" />
           </div>
         </div>
 
