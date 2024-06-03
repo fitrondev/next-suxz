@@ -1,14 +1,18 @@
+import { cn } from "@/lib/utils";
+
 const Title = ({
   section,
   title,
   description,
+  className,
 }: {
   section?: string;
   title: string;
   description: string;
+  className?: string;
 }) => {
   return (
-    <div className="space-y-2">
+    <div className={cn("space-y-2", className)}>
       <span className="tracking-[.2rem] uppercase text-primary text-sm lg:text-base font-bold">
         {section}
       </span>
