@@ -23,3 +23,15 @@ export const learningData = [
     img: "/l4.svg",
   },
 ];
+
+export const aboutData = [
+  {
+    text: "Study and produce creation to get a job.",
+  },
+  {
+    text: "Up to date material and created by expert creators.",
+  },
+  {
+    text: "Complete classes and projects andcget a certificate from us.",
+  },
+];
