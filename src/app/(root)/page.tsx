@@ -2,6 +2,7 @@ import About from "./_components/About";
 import Company from "./_components/Company";
 import Hero from "./_components/Hero";
 import Learning from "./_components/Learning";
+import Testimonials from "./_components/Testimonials";
 
 export default function Home() {
   return (
@@ -10,6 +11,7 @@ export default function Home() {
       <Learning />
       <About />
       <Company />
+      <Testimonials />
     </>
   );
 }
