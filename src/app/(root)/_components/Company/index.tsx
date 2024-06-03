@@ -24,6 +24,7 @@ const Company = () => {
               alt={item.name}
               width={150}
               height={60}
+              priority
             />
           ))}
         </div>
