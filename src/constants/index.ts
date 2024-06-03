@@ -70,3 +70,34 @@ export const companyData = [
     img: "/company8.svg",
   },
 ];
+
+export const testimonialsData = [
+  {
+    name: "Jason Tood",
+    job: "Entrepreneur",
+    comment:
+      "The mentor is cool, how to convey each material is also detailed and easy to understand.",
+    img: "/p1.jpg",
+  },
+  {
+    name: "Cassandra K",
+    job: "Web Developer",
+    comment:
+      "The mentor is cool, how to convey each material is also detailed and easy to understand.",
+    img: "/p2.jpg",
+  },
+  {
+    name: "Peter Parker",
+    job: "PHP Enthusiast",
+    comment:
+      "The mentor is cool, how to convey each material is also detailed and easy to understand.",
+    img: "/p3.jpg",
+  },
+  {
+    name: "Jean Gray",
+    job: "Designer",
+    comment:
+      "The mentor is cool, how to convey each material is also detailed and easy to understand.",
+    img: "/p4.jpg",
+  },
+];
