@@ -12,7 +12,7 @@ const Hero = () => {
               Suxz Make It Easy
             </span>
 
-            <h1 className="text-3xl sm:text-6xl font-extrabold text-center lg:text-start">
+            <h1 className="text-4xl sm:text-6xl font-extrabold text-center lg:text-start">
               Find Your Way <br />
               Of Success
             </h1>
