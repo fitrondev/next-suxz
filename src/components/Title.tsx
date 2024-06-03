@@ -7,8 +7,8 @@ const Title = ({
   className,
 }: {
   section?: string;
-  title: string;
-  description: string;
+  title?: string;
+  description?: string;
   className?: string;
 }) => {
   return (
