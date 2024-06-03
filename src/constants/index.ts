@@ -35,3 +35,38 @@ export const aboutData = [
     text: "Complete classes and projects andcget a certificate from us.",
   },
 ];
+
+export const companyData = [
+  {
+    name: "Logo Ipsum 1",
+    img: "/company1.svg",
+  },
+  {
+    name: "Logo Ipsum 2",
+    img: "/company2.svg",
+  },
+  {
+    name: "Logo Ipsum 3",
+    img: "/company3.svg",
+  },
+  {
+    name: "Logo Ipsum 4",
+    img: "/company4.svg",
+  },
+  {
+    name: "Logo Ipsum 5",
+    img: "/company5.svg",
+  },
+  {
+    name: "Logo Ipsum 6",
+    img: "/company6.svg",
+  },
+  {
+    name: "Logo Ipsum 7",
+    img: "/company7.svg",
+  },
+  {
+    name: "Logo Ipsum 8",
+    img: "/company8.svg",
+  },
+];
