@@ -19,19 +19,19 @@ const Footer = () => {
           <h3 className="text-2xl font-bold">Company</h3>
           <div className="flex flex-col gap-4 text-xl font-medium">
             <Link href="/">Home</Link>
-            <Link href="/blogs">Blogs</Link>
-            <Link href="/careers">Careers</Link>
-            <Link href="/portofolios">Portofolios</Link>
+            <Link href="/">Blogs</Link>
+            <Link href="/">Careers</Link>
+            <Link href="/">Portofolios</Link>
           </div>
         </div>
 
         <div className="flex-1 space-y-4 text-center">
           <h3 className="text-2xl font-bold">Links</h3>
           <div className="flex flex-col gap-4 text-xl font-medium">
-            <Link href="/privacy-policy">Privacy & Policy</Link>
-            <Link href="/github">Github</Link>
-            <Link href="/supports">Supports</Link>
-            <Link href="/faqs">FAQs</Link>
+            <Link href="/">Privacy & Policy</Link>
+            <Link href="/">Github</Link>
+            <Link href="/">Supports</Link>
+            <Link href="/">FAQs</Link>
           </div>
         </div>
 

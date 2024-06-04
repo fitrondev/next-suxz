@@ -20,11 +20,11 @@ const data = [
   },
   {
     title: "Log in",
-    href: "/auth/login",
+    href: "/",
   },
   {
     title: "Sign up",
-    href: "/auth/register",
+    href: "/",
   },
 ];
 
