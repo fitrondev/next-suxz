@@ -43,7 +43,7 @@ const LearningCard = ({
 
           <div>
             <Button size={"sm"} className="w-full text-sm" asChild>
-              <Link href="/learning/id">See Class</Link>
+              <Link href="">See Class</Link>
             </Button>
           </div>
         </div>
