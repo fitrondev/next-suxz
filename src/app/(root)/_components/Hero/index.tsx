@@ -25,11 +25,11 @@ const Hero = () => {
 
           <div className="space-x-5">
             <Button className="sm:py-6 sm:px-6" asChild>
-              <Link href="/auth/register">Get Started</Link>
+              <Link href="/">Get Started</Link>
             </Button>
 
             <Button variant={"outline"} className="sm:py-6 sm:px-6" asChild>
-              <Link href="/services">Our Services</Link>
+              <Link href="/">Our Services</Link>
             </Button>
           </div>
         </div>
