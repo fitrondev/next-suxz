@@ -3,7 +3,7 @@ import Image from "next/image";
 
 const Company = () => {
   return (
-    <section className="py-16 bg-[#F8F8FF] dark:bg-gray-900">
+    <section className="py-10 lg:py-20 bg-[#F8F8FF] dark:bg-gray-900">
       <div className="container flex flex-col gap-10 lg:gap-16">
         <div className="text-center">
           <h3 className="text-2xl lg:text-[44px] lg:leading-[60px] font-bold">

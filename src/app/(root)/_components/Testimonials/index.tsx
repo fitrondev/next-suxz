@@ -4,7 +4,7 @@ import TestimonialsCard from "./TestimonialsCard";
 
 const Testimonials = () => {
   return (
-    <section className="py-10">
+    <section className="py-10 lg:py-20" id="testimonials">
       <div className="container flex flex-col gap-16 lg:gap-24">
         <div>
           <Title

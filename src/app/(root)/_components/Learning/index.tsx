@@ -4,7 +4,9 @@ import LearningCard from "./LearningCard";
 
 const Learning = () => {
   return (
-    <section className="bg-[#F8F8FF] dark:bg-gray-900 py-10">
+    <section
+      className="bg-[#F8F8FF] dark:bg-gray-900 py-10 lg:py-20"
+      id="learnings">
       <div className="container space-y-16">
         <div>
           <Title
