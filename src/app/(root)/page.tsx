@@ -1,5 +1,6 @@
 import About from "./_components/About";
 import Company from "./_components/Company";
+import Footer from "./_components/Footer";
 import Hero from "./_components/Hero";
 import Learning from "./_components/Learning";
 import StartSection from "./_components/StartSection";
@@ -14,6 +15,7 @@ export default function Home() {
       <Company />
       <Testimonials />
       <StartSection />
+      <Footer />
     </>
   );
 }
