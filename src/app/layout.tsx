@@ -11,6 +11,12 @@ const manrope = Manrope({
 export const metadata: Metadata = {
   title: "Suxz",
   description: "Online learning platform with international curriculum.",
+  icons: [
+    {
+      url: "/logo.svg",
+      type: "image/svg+xml",
+    },
+  ],
 };
 
 export default function RootLayout({
