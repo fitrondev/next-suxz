@@ -28,11 +28,11 @@ const Header = () => {
               variant={"ghost"}
               asChild
               className="text-primary/70 dark:text-primary-foreground">
-              <Link href={"/auth/login"}>Log in</Link>
+              <Link href={"/"}>Log in</Link>
             </Button>
 
             <Button asChild>
-              <Link href={"/auth/register"}>Sign up</Link>
+              <Link href={"/"}>Sign up</Link>
             </Button>
           </div>
         </div>
